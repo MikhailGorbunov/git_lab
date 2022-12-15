@@ -1,1 +1,2 @@
-const greet = (name = "World") => `Hello ${name}!`;
+// hello struan
+const greeting = (name = "World") => `Hello ${name}!`;
