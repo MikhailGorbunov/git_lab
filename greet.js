@@ -1,2 +1,8 @@
+
 // hello struan
-const greeting = (name = "World") => `Hello ${name}!`;
+const greetStruan = (name = "World") => `Hello ${name}!`;
+cosnt straun = 188;
+const misha = 185;
+// hide difference 3 cm
+
+
